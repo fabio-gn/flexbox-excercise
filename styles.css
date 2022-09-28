@@ -10,8 +10,28 @@
     justify-content: center;
 }
 .menu{
-    border: 1px solid black;
+    ;
     width: 900px;
     display: flex;
     justify-content: space-between;
+}
+.account{
+    display: flex;
+    justify-content: space-around;
+}
+.log-in{
+    margin-left: 1rem;
+}
+.header-container{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(219, 219, 247);
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    
+    width: 90%;
+    max-width: 900px;
+    height: 300px;
 }
